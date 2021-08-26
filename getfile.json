@@ -4,11 +4,13 @@
 
 "plugins_": {
 
-"Reply.lua":"https://t.me/EVEOE",
+"Reply.lua":"https://t.me/EvEoE",
 
-"games.lua":"https://t.me/EVEOE",
+"games.lua":"https://t.me/EvEoE",
 
-"all.lua":"https://t.me/EVEOE",
+"commands.lua":"https://t.me/EvEoE",
+
+"all.lua":"https://t.me/EvEoE",
 
 }
 
